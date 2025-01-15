@@ -1,1 +1,3 @@
-# BTU - Women in AI - Python Course / 2025
+# Python Course - 2025
+
+## 📚 List of repositories
