@@ -194,3 +194,45 @@
       - **Custom Permissions** - https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions:
         - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy
       - **ViewSet Extra Actions** - https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing
+    
+### [Lecture 21](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_21)
+   - **Topics:**
+      - **Introduction to Celery**
+      - **Installing and configuring celery and celery beat  in Django**
+      - **Defining Celery tasks**
+      - **Task Arguments and Serialization**
+      - **Testing simple Celery tasks**
+
+### [Lecture 22](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22)
+   - **Topics:**
+      - **Introduction to Periodic Tasks**
+      - **Monitoring Tools for Celery**
+      - **Dynamic Task Scheduling**
+      - **Task Timeouts**
+
+### [Lecture 23](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_23)
+   - **Topics:**
+      - **Overview of Tests** - https://docs.djangoproject.com/en/5.1/topics/testing/:
+        - Understand the importance of testing in Django applications and familiarize yourself with the Django testing framework.
+      - **Writing Tests** - https://docs.djangoproject.com/en/5.1/topics/testing/overview/:
+        - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
+
+### [Lecture 24](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_24)
+   - **Topics:**
+      - **Working with Branches**
+      - **Merge Requests**
+      - **Resolving Conflicts During Merges**
+      - **Effective Management When Working with Git**
+       
+### [Lecture 25](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_25)
+   - **Topics:**
+      - **Overview of Deployment** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/overview_of_deployment.md
+      - **Types of Hosting Providers** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/types_of_hosting_providers.md
+      - **Amazon Web Services (AWS)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/amazon_web_services.md
+      - **Docker for Django Projects** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/docker_for_django_projects.md
+      - **Continuous Integration/Continuous Deployment (CI/CD)** - https://github.com/BTU-Women-AI-Python-course/Btu_Python_Lecture_21/blob/main/continuous_integration_continuous_deployment.md
+
+### [Lecture 26](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_26)
+   - **Topics:**
+     - Final Project
+      
