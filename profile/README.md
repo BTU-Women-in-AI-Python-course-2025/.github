@@ -179,4 +179,18 @@
       - **ViewSets** - https://www.django-rest-framework.org/api-guide/viewsets/:
       - **SimpleRouter and DefaultRouter** - https://www.django-rest-framework.org/api-guide/routers/:
         - Automatically generate URL routing for your API.
-   
+
+### [Lecture 19](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_19)
+   - **(Django Rest Framework) Topics:**
+      - **Pagination** - https://www.django-rest-framework.org/api-guide/pagination/:
+        - Efficiently handle large datasets by delivering data in manageable chunks, enhancing performance and user experience.
+      - **Django Filters** - https://www.django-rest-framework.org/api-guide/filtering/:
+        - Add filtering capabilities to your API endpoints, allowing clients to retrieve only the necessary data and making your API more flexible.
+
+### [Lecture 20](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_20)
+   - **(Django Rest Framework) Topics:**
+      - **Default Permissions** - https://www.django-rest-framework.org/api-guide/permissions/:
+        - Control access to your API endpoints.
+      - **Custom Permissions** - https://www.django-rest-framework.org/api-guide/permissions/#custom-permissions:
+        - Define and apply custom permissions to control access to specific parts of your API, ensuring security and privacy
+      - **ViewSet Extra Actions** - https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing
