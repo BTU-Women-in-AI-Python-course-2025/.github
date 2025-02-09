@@ -198,11 +198,12 @@
     
 ### [Lecture 21](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_21)
    - **Topics:**
-      - **Introduction to Celery**
-      - **Installing and configuring celery and celery beat  in Django**
-      - **Defining Celery tasks**
-      - **Task Arguments and Serialization**
-      - **Testing simple Celery tasks**
+      - **Introduction to Celery** - https://www.geeksforgeeks.org/celery-integration-with-django/
+      - **Installing and configuring celery and celery beat  in Django** - https://docs.celeryq.dev/en/latest/django/first-steps-with-django.html#using-celery-with-django
+      - **Defining Celery tasks** - https://docs.celeryq.dev/en/stable/userguide/tasks.html
+      - **Task Arguments** - https://docs.celeryq.dev/en/stable/userguide/tasks.html
+      - **Task Serialization** - https://docs.celeryq.dev/en/latest/userguide/calling.html#serializers
+      - **Testing simple Celery tasks** 
 
 ### [Lecture 22](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22)
    - **Topics:**
