@@ -197,7 +197,7 @@
       - **ViewSet Extra Actions** - https://www.django-rest-framework.org/api-guide/viewsets/#marking-extra-actions-for-routing
     
 ### [Lecture 21](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_21)
-   - **Topics:**
+   - **(Django Celery) Topics:**
       - **Introduction to Celery** - https://www.geeksforgeeks.org/celery-integration-with-django/
       - **Installing and configuring celery and celery beat  in Django** - https://docs.celeryq.dev/en/latest/django/first-steps-with-django.html#using-celery-with-django
       - **Defining Celery tasks** - https://docs.celeryq.dev/en/stable/userguide/tasks.html
@@ -206,7 +206,7 @@
       - **Testing simple Celery tasks** 
 
 ### [Lecture 22](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22)
-   - **Topics:**
+   - **(Django Celery) Topics:**
       - **Introduction to Periodic Tasks**
       - **Monitoring Tools for Celery**
       - **Dynamic Task Scheduling**
