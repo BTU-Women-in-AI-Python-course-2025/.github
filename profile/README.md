@@ -210,7 +210,7 @@
       - **Introduction to Periodic Tasks** - https://docs.celeryq.dev/en/latest/userguide/periodic-tasks.html
       - **Monitoring Tools for Celery** - https://django-celery-monitor.readthedocs.io/en/latest/
       - **Dynamic Task Scheduling** - https://django-celery-beat.readthedocs.io/en/latest/
-      - **Task Timeouts** - 
+      - **Task Timeouts** 
 
 ### [Lecture 23](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_23)
    - **Topics:**
