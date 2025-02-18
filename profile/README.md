@@ -220,10 +220,11 @@
         - Learn how to write unit tests and integration tests for your Django applications, ensuring that your code functions correctly and as expected.
 
 ### [Lecture 24](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_24)
-   - **Topics:**
-      - **Working with Branches**
-      - **Merge Requests**
-      - **Resolving Conflicts During Merges**
+   - **(GIT) Topics:**
+      - **Working with Branches** - https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+      - **Merge Requests** - https://docs.gitlab.com/user/project/merge_requests/
+      - **Resolving Conflicts During Merges** - https://www.simplilearn.com/tutorials/git-tutorial/merge-conflicts-in-git
+        - Using code editor - https://www.jetbrains.com/help/idea/resolve-conflicts.html
       - **Effective Management When Working with Git**
        
 ### [Lecture 25](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_25)
