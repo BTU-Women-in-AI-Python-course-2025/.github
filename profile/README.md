@@ -10,8 +10,7 @@
 
 ### [Lecture 2](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_2)
    - **Topics:**
-     - **Conditional Statements** - https://www.w3schools.com/python/python_conditions.asp:
-        - `if`, `else`, `elif` - https://www.w3schools.com/python/python_conditions.asp
+     - **Conditional Statements** - `if`, `else`, `elif` - https://www.w3schools.com/python/python_conditions.asp
 
       - **Loops**:
         - `for` - https://www.w3schools.com/python/python_for_loops.asp
