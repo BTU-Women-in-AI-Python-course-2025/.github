@@ -33,6 +33,7 @@
      - **Lambda Functions** - https://www.w3schools.com/python/python_lambda.asp
          - Discover the power of lambda functions for creating anonymous functions in Python.
          - Learn how to use lambda functions in various contexts for concise and readable code.
+     - **Recursion** - https://www.geeksforgeeks.org/introduction-to-recursion-2/
        
 ### [Lecture 4](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_4)
    - **Topics:**
