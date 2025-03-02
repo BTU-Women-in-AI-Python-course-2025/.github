@@ -11,9 +11,12 @@
 
 ### [Lecture 2](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_2)
    - **Topics:**
-     - **Conditional Statements** - `if`, `else`, `elif` - https://www.w3schools.com/python/python_conditions.asp
+     - **Conditional Statements** - https://www.w3schools.com/python/python_conditions.asp:
+        - `if`
+        - `else`
+        - `elif`
 
-      - **Loops**:
+     - **Loops**:
         - `for` - https://www.w3schools.com/python/python_for_loops.asp
         - `while` - https://www.w3schools.com/python/python_while_loops.asp
         - `break` - https://www.w3schools.com/python/ref_keyword_break.asp
