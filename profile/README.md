@@ -87,6 +87,7 @@
         - Settings - https://docs.djangoproject.com/en/5.0/topics/settings/
         - Views - https://docs.djangoproject.com/en/5.0/topics/http/views/
         - URLs - https://docs.djangoproject.com/en/5.0/topics/http/urls/
+      - **HTTP Status** - https://www.w3schools.com/tags/ref_httpmessages.asp
        
 ### [Lecture 9](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_9)
    - **Topics:**
