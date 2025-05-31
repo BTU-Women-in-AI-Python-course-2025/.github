@@ -207,11 +207,11 @@
 
 ### [Lecture 22](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22)
    - **(Django Celery) Topics:**
-      - **Introduction to Periodic Tasks** - https://docs.celeryq.dev/en/latest/userguide/periodic-tasks.html
-      - **Monitoring Tools for Celery** - https://django-celery-monitor.readthedocs.io/en/latest/
-      - **Dynamic Task Scheduling** - https://django-celery-beat.readthedocs.io/en/latest/
-      - **Task Timeouts** 
-
+      - **Introduction to Periodic Tasks** - https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22/blob/main/Additional%20resources/periodic_tasks.md
+      - **Monitoring Tools for Celery** - https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22/blob/main/Additional%20resources/monitoring_tools_for_celery.md
+      - **Dynamic Task Scheduling** - https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22/tree/main/Additional%20resources
+      - **Task Timeouts** - https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_22/tree/main/Additional%20resources
+        
 ### [Lecture 23](https://github.com/BTU-Women-in-AI-Python-course-2025/python_lecture_23)
    - **Topics:**
       - **Overview of Tests** - https://docs.djangoproject.com/en/5.1/topics/testing/:
